@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "448333333360",
+    "firebase_url": "https://numbergame-a7d3f-default-rtdb.firebaseio.com",
+    "project_id": "numbergame-a7d3f",
+    "storage_bucket": "numbergame-a7d3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448333333360:android:f4f492c7202934bc1b05b5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eFIgAbOmnqkueGPRXzYEXnl6u5hAiDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448333333360:android:aa76d3a925d7c8801b05b5",
+        "android_client_info": {
+          "package_name": "com.example.recipefinderfinalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eFIgAbOmnqkueGPRXzYEXnl6u5hAiDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
