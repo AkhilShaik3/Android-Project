@@ -93,7 +93,7 @@ public class RegisterActivity extends AppCompatActivity {
             confirmPasswordEditText.requestFocus();
             return;
         }
-        //if everything is fine, start the registration process
+
         mAuth.createUserWithEmailAndPassword(email, password).addOnCompleteListener(this , task -> {
             if (task.isSuccessful()) {
                 Toast.makeText(RegisterActivity.this,"Registration Successful",Toast.LENGTH_SHORT).show();
